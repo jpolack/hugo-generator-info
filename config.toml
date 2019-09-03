@@ -1,3 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+# Main config file for icon theme.
+theme = "hugo-theme-basic"
+baseURL = "https://www.example.com/"
+languageCode = "en-US"
+title = "Hugo Generator"
