@@ -1,9 +1,10 @@
 # Main config file for icon theme.
 theme = "hugo-theme-basic"
-baseURL = "https://www.example.com/"
+baseURL = "https://www.hugo-generator.com/"
 languageCode = "en-US"
 title = "Hugo Generator"
 googleAnalytics = "UA-146816445-1"
+enableRobotsTXT = true
 
 [privacy]
   [privacy.googleAnalytics]
