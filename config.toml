@@ -7,6 +7,10 @@ googleAnalytics = "UA-146816445-1"
 enableRobotsTXT = true
 canonifyURLs = true
 
+[params]
+  author = "Jonah Polack"
+  description = "Hugo is a static site generator. Hugo generator is a UI that generates a hugo project for you"
+
 [privacy]
   [privacy.googleAnalytics]
     anonymizeIP = true
