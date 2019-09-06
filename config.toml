@@ -5,6 +5,7 @@ languageCode = "en-US"
 title = "Hugo Generator"
 googleAnalytics = "UA-146816445-1"
 enableRobotsTXT = true
+canonifyURLs = true
 
 [privacy]
   [privacy.googleAnalytics]
