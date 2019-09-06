@@ -1,7 +1,8 @@
-+++
-title = "What is Hugo Generator?"
-date = "2019-09-03T15:15:53+02:00"
-+++
+---
+title: "What is Hugo Generator?"
+date: 2019-09-03T15:15:53+02:00
+tags: ["Hugo", "Generator", "Markdown", "HTML", "Homepage", "Blog", "Landing Page", "static", "site", "GUI"]
+---
 
 Hugo Generator is a simple GUI to create your personal Hugo website. This means that with a few clicks you create your personal statically rendered HTML Homepage, Blog or Landing Page. As the name already sais it uses [Hugo](https://gohugo.io) under the hood.
 
