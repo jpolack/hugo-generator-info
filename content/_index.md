@@ -15,5 +15,5 @@ For furthert information visit the official Hugo website under: [https://gohugo.
 
 ## How do I get started with Hugo Generator?
 
-[Get started now!](/notyet)
+[Get started now!](https://gen.hugo-generator.com)
 
